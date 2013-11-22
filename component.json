@@ -1,0 +1,37 @@
+{
+  "name": "backbone.marionette",
+  "description": "Make your Backbone.js apps dance with a composite application architecture!",
+  "version": "1.2.3",
+  "homepage": "http://marionettejs.com/",
+  "repo": "aaronz8/backbone.marionette",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronz8/backbone.marionette.git"
+  },
+  "keywords": [
+    "backbone",
+    "plugin",
+    "marionette",
+    "composite",
+    "architecture",
+    "single",
+    "page",
+    "app",
+    "client",
+    "browser"
+  ],
+  "author": {
+    "name": "Derick Bailey",
+    "email": "derickbailey@gmail.com",
+    "web": "http://derickbailey.lostechies.com"
+  },
+  "dependencies": {
+    "components/underscore": "1.4.4",
+    "jashkenas/backbone": "1.1.0",
+    "aaronz8/backbone.wreqr": "0.2.0",
+    "aaronz8/backbone.babysitter": "0.0.6"
+  },
+  "scripts": [
+    "lib/core/amd/backbone.marionette.js"
+  ]
+}
