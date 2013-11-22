@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "components/underscore": "1.4.4",
-    "jashkenas/backbone": "1.1.0",
+    "aaronz8/backbone": "1.1.0",
     "aaronz8/backbone.wreqr": "0.2.0",
     "aaronz8/backbone.babysitter": "0.0.6"
   },
