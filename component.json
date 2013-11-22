@@ -33,5 +33,6 @@
   },
   "scripts": [
     "lib/core/amd/backbone.marionette.js"
-  ]
+  ],
+  "main": "lib/core/amd/backbone.marionette.js"
 }
