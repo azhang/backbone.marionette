@@ -1,7 +1,7 @@
 {
   "name": "backbone.marionette",
   "description": "Make your Backbone.js apps dance with a composite application architecture!",
-  "version": "1.2.3",
+  "version": "1.2.3-c",
   "homepage": "http://marionettejs.com/",
   "repo": "aaronz8/backbone.marionette",
   "repository": {
